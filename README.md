@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusebiswas&label=Profile%20views&color=0e75b6&style=flat" alt="lusebiswas" /> </p>
 
-- 🔭 I’m currently working on [CUPE](https://github.com/LuseBiswas/CUPE)
+- 🔭 I’m currently working with EARTHFIELD
 
 - 🌱 I’m currently learning **Microsoft Power App**
 
