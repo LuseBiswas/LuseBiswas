@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ritesh-biswas-810640224/](https://www.linkedin.com/in/ritesh-biswas-810640224/)
+- 👨‍💻 All of my projects are available [here](https://portfolio2-0-pink-five.vercel.app/)
 
-- 💬 Ask me about **React 🖲️, DSA 💻 and Movies 🎬**
+- 💬 Ask me about **Development 🖲️, DSA 💻 and Movies 🎬**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ritesh-biswas-810640224/**
 
