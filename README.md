@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Development 🖲️, DSA 💻 and Movies 🎬**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ritesh-biswas-810640224/**
+- 📫 How to reach me? Click [here](https://www.linkedin.com/in/ritesh-biswas-810640224/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ritesh-biswas-810640224/overlay/1710687402481/single-media-viewer/?profileId=ACoAADhV0IwBOSj2gDURsMup3FOrGuYgO4USS-c](https://www.linkedin.com/in/ritesh-biswas-810640224/overlay/1710687402481/single-media-viewer/?profileId=ACoAADhV0IwBOSj2gDURsMup3FOrGuYgO4USS-c)
 
