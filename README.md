@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? Click [here](https://www.linkedin.com/in/ritesh-biswas-810640224/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ritesh-biswas-810640224/overlay/1710687402481/single-media-viewer/?profileId=ACoAADhV0IwBOSj2gDURsMup3FOrGuYgO4USS-c](https://www.linkedin.com/in/ritesh-biswas-810640224/overlay/1710687402481/single-media-viewer/?profileId=ACoAADhV0IwBOSj2gDURsMup3FOrGuYgO4USS-c)
+- 📄 Know about my experiences [here](https://portfolio2-0-pink-five.vercel.app/)
 
 - ⚡ Fun fact **I am a Over-thinker 🧐**
 
