@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusebiswas&label=Profile%20views&color=0e75b6&style=flat" alt="lusebiswas" /> </p>
 
-- 🔭 I’m currently working with **EARTHFIELD**
+- 🔭 I’m currently working with **Artesian Software Technologies**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available [here](https://portfolio2-0-pink-five.vercel.app/)
 
